@@ -4,5 +4,4 @@ locale: cs_CZ
 #logo: /mics/logo.png
 
 markdown: GFM
-#include: [".well-known"]
-
+include: [".well-known"]
