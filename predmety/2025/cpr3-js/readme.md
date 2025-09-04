@@ -4,7 +4,7 @@
 
 | Úkol  | Zadán      | Termín odevzdání    | Bodů |
 |-------|------------|---------------------|------|
-| 1.    | 04.09.2025 | 10.09.2025 23:59:59 | 1    |
+| 1.    | 11.09.2025 | 17.09.2025 23:59:59 | 1    |
 | 2.    |            |                     | 4    |
 | 3.    |            |                     | 5    |
 | 4.    |            |                     | 5    |
@@ -29,6 +29,8 @@
 **11.09.2025**
 
 - Představení předmětu a učitelů
-- Přednáška na GIT
-- Představení školního GitLabu
-- Zadání první úlohy
+- První část přednášky na Git
+
+## Prezentace
+
+- [Úvod](./prezentace/00-uvod.pdf)
