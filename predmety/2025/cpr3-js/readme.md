@@ -30,6 +30,8 @@
 
 - Představení předmětu a učitelů
 - První část přednášky na Git
+  - sk. B do slidu 37
+  - sk. A do slidu 30
 
 ## Prezentace
 
