@@ -24,6 +24,21 @@
 | 3.    |            | 10   |                           |
 | 4.    |            | 10   |                           |
 
+## Témata na prezentace
+
+- Generika v TypeScriptu
+- Dekorátory a Mixiny v TypeScriptu
+- Binární strom a jeho vyvažování
+- Creational patterns - Factory, Builder, Singleton
+- Structural patterns - Adapter, Decorator, Composite
+- Behavioral patterns - Observer, Iterator, Strategy
+- Základy Express.js
+- Objektově-relační mapování (ORM), migrace
+- Architektura API - REST
+- Architektura API - GraphQL
+- Continuous integration a continuous delivery (CI/CD)
+- Ukázka cloudových služeb
+
 ## Kalendář
 
 **11.09.2025**
