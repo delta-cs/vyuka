@@ -13,3 +13,7 @@ Pro výuku používáme následující nástroje:
 - [Feedback](https://feedback.delta-vyuka.cz)
 
 Žákům je také k dispozici [Coder](https://coder.delta-topgun.cz), kde si mohou vytvořit svůj virtuální stroj s Linuxem
+
+---
+
+Veškeré dokumenty jsou distrubované pod licencí [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.txt).
