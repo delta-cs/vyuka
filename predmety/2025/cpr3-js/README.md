@@ -41,6 +41,9 @@
 
 ## Kalendář
 
+**18.09.2025**
+- Odpadlo
+
 **11.09.2025**
 
 - Dokončení přednášky na Git
