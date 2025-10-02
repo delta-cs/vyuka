@@ -29,24 +29,35 @@
 - Generika v TypeScriptu
 - Dekorátory a Mixiny v TypeScriptu
   - A: Martin
-- Binární strom a jeho vyvažování
+- Binární vyhledávací strom a jeho vyvažování
   - A: Vojtěch
 - Creational patterns - Factory, Builder, Singleton
+  - B: Daniel
 - Structural patterns - Adapter, Decorator, Composite
 - Behavioral patterns - Observer, Iterator, Strategy
 - Základy Express.js
   - A: Jan
 - Objektově-relační mapování (ORM), migrace
   - A: Stanislav
+  - B: Marek
 - Architektura API - REST
   - A: Zdeňka
+  - B: Zdeněk
 - Architektura API - GraphQL
   - A: Jakub
 - Continuous integration a continuous delivery (CI/CD)
 - Ukázka cloudových služeb
   - A: Marian
+  - B: Jan
 
 ## Kalendář
+
+**02.10.2025**
+- Dokončení přednášky na úvod do JavaScriptu a JS před ES6
+- První část přednášky na JS po ES6
+  - sk. B do slidu 24
+  - sk. A do slidu 44
+- Zadání druhého úkolu
 
 **25.09.2025**
 - První kvíz na Git a kolaborativní vývoj
@@ -79,3 +90,4 @@
 - [Úvod](./prezentace/00-uvod.pdf)
 - [Verzovací systémy](./prezentace/01-verzovaci-systemy.pdf)
 - [Kolaborativní vývoj](./prezentace/02-kolaborativni-vyvoj.pdf)
+- [Základy JavaScriptu a JS před ES6](./prezentace/03-zaklady-javascriptu-a-js-pred-es6.pdf)
