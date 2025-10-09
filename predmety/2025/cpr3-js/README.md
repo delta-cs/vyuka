@@ -20,7 +20,7 @@
 | Kvíz  | Datum      | Bodů | Téma                                |
 |-------|------------|------|-------------------------------------|
 | 1.    | 25.09.2025 | 5    | Git a kolaborativní vývoj           |
-| 2.    | 16.10.2025 | 10   | Úvod do Javascriptu (před i po ES6) |
+| 2.    | 23.10.2025 | 10   | Úvod do Javascriptu (před i po ES6) |
 | 3.    |            | 10   |                                     |
 | 4.    |            | 10   |                                     |
 
