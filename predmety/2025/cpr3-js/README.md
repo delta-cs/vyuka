@@ -52,6 +52,12 @@
 
 ## Kalendář
 
+**09.10.2025**
+- Druhá třetina prezentace na JS po ES6
+  - sk. B do slidu 152
+  - sk. A do slidu 159
+- Zadání třetího úkolu
+
 **02.10.2025**
 - Dokončení přednášky na úvod do JavaScriptu a JS před ES6
 - První část přednášky na JS po ES6
