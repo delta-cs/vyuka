@@ -27,11 +27,11 @@
 ## Témata na prezentace
 
 - Generika v TypeScriptu
-- Dekorátory a Mixiny v TypeScriptu
+- Dekorátory a Mixiny v TypeScriptu (30.10.2025)
   - A: Martin
-- Binární vyhledávací strom a jeho vyvažování
+- Binární vyhledávací strom a jeho vyvažování (06.11.2025)
   - A: Vojtěch
-- Creational patterns - Factory, Builder, Singleton
+- Creational patterns - Factory, Builder, Singleton (20.11.2025)
   - B: Daniel
 - Structural patterns - Adapter, Decorator, Composite
 - Behavioral patterns - Observer, Iterator, Strategy
