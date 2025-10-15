@@ -48,12 +48,26 @@ hr {
   border-color: var(--border-color) !important;
 }
 
-table tr {
+table tr,
+.markdown-body table tr {
+  background-color: var(--bg-color) !important;
   border-top-color: var(--border-color) !important;
 }
 
-table tr:nth-child(2n) {
+table tr:nth-child(2n),
+.markdown-body table tr:nth-child(2n) {
   background-color: var(--header-bg) !important;
+}
+
+table th,
+.markdown-body table th {
+  background-color: var(--header-bg) !important;
+  color: var(--text-color) !important;
+}
+
+table td,
+.markdown-body table td {
+  color: var(--text-color) !important;
 }
 
 blockquote {
