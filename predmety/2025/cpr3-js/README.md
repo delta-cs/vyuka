@@ -33,7 +33,8 @@
   - A: Vojtěch
 - Creational patterns - Factory, Builder, Singleton (20.11.2025)
   - B: Daniel
-- Structural patterns - Adapter, Decorator, Composite
+- Structural patterns - Adapter, Decorator, Composite (20.11.2025)
+  - B: Filip
 - Behavioral patterns - Observer, Iterator, Strategy
 - Základy Express.js
   - A: Jan
