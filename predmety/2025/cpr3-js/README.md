@@ -53,6 +53,12 @@
 
 ## Kalendář
 
+**16.10.2025**
+- Dokončení přednášky na JS po ES6
+- První část přednášky na TypeScript
+  - sk. B do slidu 73
+  - sk. A do slidu 92
+
 **09.10.2025**
 - Druhá třetina prezentace na JS po ES6
   - sk. B do slidu 152
