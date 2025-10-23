@@ -53,6 +53,12 @@
 
 ## Kalendář
 
+**23.10.2025**
+- Pokračování přednášky na TypeScript
+  - doplněné type guards (sl. 36) a statické metody (sl. 66)
+  - sk. B do slidu 141 (index signatures)
+  - sk. A do slidu 149 (implementace rozhraní)
+
 **16.10.2025**
 - Dokončení přednášky na JS po ES6
 - První část přednášky na TypeScript
