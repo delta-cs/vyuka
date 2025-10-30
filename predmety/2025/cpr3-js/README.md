@@ -53,6 +53,11 @@
 
 ## Kalendář
 
+**30.10.2025**
+- Pokračování přednášky na TypeScript
+  - sk. B do slidu 235 (mixiny)
+  - sk. A do slidu 221 + dekrátory a mixiny (Martin)
+
 **23.10.2025**
 - Pokračování přednášky na TypeScript
   - doplněné type guards (sl. 36) a statické metody (sl. 66)
