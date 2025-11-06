@@ -29,7 +29,7 @@
 - Generika v TypeScriptu
 - Dekorátory a Mixiny v TypeScriptu (30.10.2025)
   - A: Martin
-- Binární vyhledávací strom a jeho vyvažování (06.11.2025)
+- Binární vyhledávací strom a jeho vyvažování (13.11.2025)
   - A: Vojtěch
 - Creational patterns - Factory, Builder, Singleton (20.11.2025)
   - B: Daniel
@@ -52,6 +52,12 @@
   - B: Jan
 
 ## Kalendář
+
+**06.11.2025**
+- Dokončení přednášky na TypeScript
+- Začátek přednásky na datové struktury
+  - sk. B do slidu 44
+  - sk. A do slidu 52
 
 **30.10.2025**
 - Pokračování přednášky na TypeScript
