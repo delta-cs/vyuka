@@ -29,7 +29,7 @@
 - Generika v TypeScriptu
 - Dekorátory a Mixiny v TypeScriptu (30.10.2025)
   - A: Martin
-- Binární vyhledávací strom a jeho vyvažování (20.11.2025)
+- Binární vyhledávací strom a jeho vyvažování (13.11.2025)
   - A: Vojtěch
 - Creational patterns - Factory, Builder, Singleton (04.12.2025)
   - B: Daniel
