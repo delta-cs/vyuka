@@ -29,16 +29,16 @@
 - Generika v TypeScriptu
 - Dekorátory a Mixiny v TypeScriptu (30.10.2025)
   - A: Martin
-- Binární vyhledávací strom a jeho vyvažování (13.11.2025)
+- Binární vyhledávací strom a jeho vyvažování (20.11.2025)
   - A: Vojtěch
-- Creational patterns - Factory, Builder, Singleton (20.11.2025)
+- Creational patterns - Factory, Builder, Singleton (04.12.2025)
   - B: Daniel
-- Structural patterns - Adapter, Decorator, Composite (20.11.2025)
+- Structural patterns - Adapter, Decorator, Composite (04.12.2025)
   - B: Filip
 - Behavioral patterns - Observer, Iterator, Strategy
-- Základy Express.js
+- Základy Express.js (11.12.2025)
   - A: Jan
-- Objektově-relační mapování (ORM), migrace
+- Objektově-relační mapování (ORM), migrace (18.12.2025)
   - A: Stanislav
   - B: Marek
 - Architektura API - REST
@@ -52,6 +52,9 @@
   - B: Jan
 
 ## Kalendář
+
+**13.11.2025**
+- Odpadlo
 
 **06.11.2025**
 - Dokončení přednášky na TypeScript
