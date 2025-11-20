@@ -53,6 +53,11 @@
 
 ## Kalendář
 
+**20.11.2025**
+- Pokračování přednášky na datové struktury
+  - sk. B do slidu 120
+  - sk. A do slidu 139
+
 **13.11.2025**
 - Odpadlo
 
