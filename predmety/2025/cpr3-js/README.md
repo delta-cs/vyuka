@@ -133,3 +133,4 @@
 - [Základy JavaScriptu a JS před ES6](./prezentace/03-zaklady-javascriptu-a-js-pred-es6.pdf)
 - [JavaScript po ES6](./prezentace/04-javascript-po-es6.pdf)
 - [TypeScript a OOP](./prezentace/05-typescript-a-oop.pdf)
+- [Datové struktury](./prezentace/06-datove-struktury.pdf)
