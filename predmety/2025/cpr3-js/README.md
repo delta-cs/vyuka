@@ -50,6 +50,11 @@
 
 ## Kalendář
 
+**04.12.2025**
+- Přednáška a návrhové vzory
+  - sk. B do slidu 99
+  - sk. A do slidu 99
+
 **27.11.2025**
 - Dokončení přednášky na datové struktury
 - Zadání a práce na úkolu 4 a 5
@@ -109,7 +114,6 @@
 - Odpadlo
 
 **11.09.2025**
-
 - Dokončení přednášky na Git
 - Přednáška na kolaborativní vývoj
 - Zadán první úkol
@@ -118,7 +122,6 @@
   - Stažení prvního úkolu
 
 **04.09.2025**
-
 - Představení předmětu a učitelů
 - První část přednášky na Git
   - sk. B do slidu 37
@@ -133,3 +136,4 @@
 - [JavaScript po ES6](./prezentace/04-javascript-po-es6.pdf)
 - [TypeScript a OOP](./prezentace/05-typescript-a-oop.pdf)
 - [Datové struktury](./prezentace/06-datove-struktury.pdf)
+- [Návrhové vzory](./prezentace/07-navrhove-vzory.pdf)
