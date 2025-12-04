@@ -9,9 +9,8 @@
 | 3.    | 09.10.2025 | 22.10.2025 23:59:59 | 5    |
 | 4.    | 27.11.2025 | 10.12.2025 23:59:59 | 10   |
 | 5.    | 27.11.2025 | 10.12.2025 23:59:59 | 10   |
-| 6.    |            |                     | 5    |
+| 6.    |            |                     | 10   |
 | 7.    |            |                     | 5    |
-| 8.    |            |                     | 5    |
 
 ## Kvízy
 
@@ -19,8 +18,8 @@
 |-------|------------|------|-------------------------------------|
 | 1.    | 25.09.2025 | 5    | Git a kolaborativní vývoj           |
 | 2.    | 23.10.2025 | 10   | Úvod do Javascriptu (před i po ES6) |
-| 3.    |            | 10   |                                     |
-| 4.    |            | 10   |                                     |
+| 3.    | 18.12.2025 | 10   | Datové struktury                    |
+| 4.    | 08.01.2026 | 10   | Node.js, Express.js a Nest.js       |
 
 ## Témata na prezentace
 
@@ -39,13 +38,13 @@
 - Objektově-relační mapování (ORM), migrace (18.12.2025)
   - A: Stanislav
   - B: Marek
-- Architektura API - REST
+- Architektura API - REST (18.12.2025)
   - A: Zdeňka
   - B: Zdeněk
-- Architektura API - GraphQL
+- Architektura API - GraphQL (18.12.2025)
   - A: Jakub
 - Continuous integration a continuous delivery (CI/CD)
-- Ukázka cloudových služeb
+- Ukázka cloudových služeb (15.01.2026)
   - A: Marian
   - B: Jan
 
