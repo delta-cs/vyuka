@@ -35,7 +35,7 @@
 - Behavioral patterns - Observer, Iterator, Strategy
 - Základy Express.js (11.12.2025)
   - A: Jan
-- Objektově-relační mapování (ORM), migrace (18.12.2025)
+- Objektově-relační mapování (ORM), migrace (11.12.2025)
   - A: Stanislav
   - B: Marek
 - Architektura API - REST (18.12.2025)
