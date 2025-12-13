@@ -19,7 +19,7 @@
 | 1.    | 25.09.2025 | 5    | Git a kolaborativní vývoj           |
 | 2.    | 23.10.2025 | 10   | Úvod do Javascriptu (před i po ES6) |
 | 3.    | 18.12.2025 | 10   | Datové struktury                    |
-| 4.    | 08.01.2026 | 10   | Node.js, Express.js a Nest.js       |
+| 4.    | 22.01.2026 | 10   | Node.js, Express.js a Nest.js       |
 
 ## Témata na prezentace
 
