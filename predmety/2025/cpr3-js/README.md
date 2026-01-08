@@ -52,8 +52,9 @@
 
 **08.01.2026**
 - Přednáška na Docker
-  - sk. B do slidu ...
-  - sk. A do slidu ...
+- Pokračování přednášky na Express.js
+  - sk. B do slidu 51
+  - sk. A do slidu 51
 - Zadání úkolů 6 a 7
 
 **17.12.2025**
