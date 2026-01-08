@@ -9,8 +9,8 @@
 | 3.    | 09.10.2025 | 22.10.2025 23:59:59 | 5    |
 | 4.    | 27.11.2025 | 31.12.2025 23:59:59 | 10   |
 | 5.    | 27.11.2025 | 31.12.2025 23:59:59 | 10   |
-| 6.    |            |                     | 10   |
-| 7.    |            |                     | 5    |
+| 6.    | 08.01.2026 | 21.01.2026 23:59:59 | 10   |
+| 7.    | 08.01.2026 | 21.01.2026 23:59:59 | 5    |
 
 ## Kvízy
 
@@ -19,7 +19,7 @@
 | 1.    | 25.09.2025 | 5    | Git a kolaborativní vývoj           |
 | 2.    | 23.10.2025 | 10   | Úvod do Javascriptu (před i po ES6) |
 | 3.    | 18.12.2025 | 10   | Datové struktury                    |
-| 4.    | 22.01.2026 | 10   | Node.js, Express.js a Nest.js       |
+| 4.    | 22.01.2026 | 10   | Express.js, REST a Docker           |
 
 ## Témata na prezentace
 
@@ -49,6 +49,12 @@
   - B: Jan
 
 ## Kalendář
+
+**08.01.2026**
+- Přednáška na Docker
+  - sk. B do slidu ...
+  - sk. A do slidu ...
+- Zadání úkolů 6 a 7
 
 **17.12.2025**
 - Dokončení přednášky na návrhové vzory
