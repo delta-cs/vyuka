@@ -6,8 +6,6 @@ V roce **2025** vyučujeme na Deltě následující předměty:
 
 ## Nástroje
 
-> Aktuálně (od úterý 13.1.2026) **nefunguje** server ve škole, oprava proběhne ve čtvrtek 15.1.2026.
-
 Pro výuku používáme následující nástroje:
 
 - [GitLab](https://git.delta-vyuka.cz)
