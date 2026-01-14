@@ -150,5 +150,5 @@
 - [TypeScript a OOP](./prezentace/05-typescript-a-oop.pdf)
 - [Datové struktury](./prezentace/06-datove-struktury.pdf)
 - [Návrhové vzory](./prezentace/07-navrhove-vzory.pdf)
-- [Express.js](./prezentace/08-expressjs.pdf)
+- [Express.js](./prezentace/08-expressjs.pdf) ([kód](./prezentace/08-expressjs))
 - [Docker](./prezentace/09-docker.pdf)
