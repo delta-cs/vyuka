@@ -50,6 +50,10 @@
 
 ## Kalendář
 
+**15.01.2026**
+- Přednášky na ukázku cloudových služeb (Marian a Jan)
+- Dokončení přednášky na Express.js
+
 **08.01.2026**
 - Přednáška na Docker
 - Pokračování přednášky na Express.js
