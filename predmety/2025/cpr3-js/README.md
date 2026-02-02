@@ -1,6 +1,16 @@
 # Cvičení z programování 3 (JS)
 
-## Úkoly
+## <a name="druhe-pololeti"></a> Druhé pololetí
+
+## Kalendář
+
+**05.02.2026**
+- ...
+
+
+## <a name="prvni-pololeti"></a> První pololetí
+
+### Úkoly
 
 | Úkol  | Zadán      | Termín odevzdání    | Bodů |
 |-------|------------|---------------------|------|
@@ -12,7 +22,7 @@
 | 6.    | 08.01.2026 | 21.01.2026 23:59:59 | 10   |
 | 7.    | 08.01.2026 | 21.01.2026 23:59:59 | 5    |
 
-## Kvízy
+### Kvízy
 
 | Kvíz  | Datum      | Bodů | Téma                                |
 |-------|------------|------|-------------------------------------|
@@ -21,7 +31,7 @@
 | 3.    | 18.12.2025 | 10   | Datové struktury                    |
 | 4.    | 22.01.2026 | 10   | Express.js, REST a Docker           |
 
-## Témata na prezentace
+### Témata na prezentace
 
 - Generika v TypeScriptu
 - Dekorátory a Mixiny v TypeScriptu (30.10.2025)
@@ -48,7 +58,13 @@
   - A: Marian
   - B: Jan
 
-## Kalendář
+### Kalendář
+
+**29.01.2026**
+- Přednáška na Nest.js
+
+**22.01.2026**
+- Dokončení pololetní klasifikace
 
 **15.01.2026**
 - Přednášky na ukázku cloudových služeb (Marian a Jan)
@@ -144,7 +160,7 @@
   - sk. B do slidu 37
   - sk. A do slidu 30
 
-## Prezentace
+### Prezentace
 
 - [Úvod](./prezentace/00-uvod.pdf)
 - [Verzovací systémy](./prezentace/01-verzovaci-systemy.pdf)
@@ -156,3 +172,4 @@
 - [Návrhové vzory](./prezentace/07-navrhove-vzory.pdf)
 - [Express.js](./prezentace/08-expressjs.pdf) ([kód](./prezentace/08-expressjs))
 - [Docker](./prezentace/09-docker.pdf)
+- [Nest.js](./prezentace/10-nestjs.pdf)
