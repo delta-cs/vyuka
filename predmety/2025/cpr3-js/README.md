@@ -5,7 +5,11 @@
 ## Kalendář
 
 **05.02.2026**
-- ...
+- Úvod do druhého pololetí 
+- Nastavení prostředí
+  - Node.js a způsoby instalace
+  - Balíčkovací systémy (npm, pnpm, yarn) a rozdíly mezi nimi
+- Vytvoření react aplikace
 
 
 ## <a name="prvni-pololeti"></a> První pololetí
