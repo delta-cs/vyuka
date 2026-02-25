@@ -4,6 +4,12 @@
 
 ## Kalendář
 
+**19.02.2026**
+- Představeny pojmy DOM, Virtual DOM, JSX (TSX)
+  - Základní konstrukce JSX
+- Jednoduchá "todo" aplikace - vytvořená pomocí práce s DOM přes (vanilla) Javascript
+- sk. A - Přepis této aplikace do JSX s Reactem
+
 **05.02.2026**
 - Úvod do druhého pololetí 
 - Nastavení prostředí
