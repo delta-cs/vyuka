@@ -4,6 +4,10 @@
 
 ## Kalendář
 
+**26.02.2026**
+- sk. B - dokončení přepisu této aplikace do JSX s Reactem z minule
+- Komponenty, props, podmíněné vykreslování, eventy
+
 **19.02.2026**
 - Představeny pojmy DOM, Virtual DOM, JSX (TSX)
   - Základní konstrukce JSX
