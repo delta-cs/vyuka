@@ -5,7 +5,7 @@
 ## Kalendář
 
 **12.03.2026**
-- Projekt "Trello klon" - na procvičení principů z přechdozích hodin (komponenty, předávání dat přes props, event handling, react hooks)
+- Projekt "Trello klon" - na procvičení principů z předchozích hodin (komponenty, předávání dat přes props, event handling, react hooks)
 
 **05.03.2026**
 - React hooks
