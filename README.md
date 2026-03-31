@@ -1,6 +1,6 @@
 # Výuka na Deltě
 
-V roce **2025** vyučujeme na Deltě následující předměty:
+V roce **2025/2026** vyučujeme na Deltě následující předměty:
 
 - [Cvičení z Programování 3 (JS)](predmety/2025/cpr3-js/)
 
