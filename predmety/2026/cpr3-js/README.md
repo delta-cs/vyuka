@@ -44,5 +44,3 @@
 - Představení předmětu a učitelů
 
 ### Prezentace
-
-- [Úvod](./prezentace/00-uvod.pdf)
