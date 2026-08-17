@@ -1,8 +1,8 @@
 # Výuka na Deltě
 
-V roce **2025/2026** vyučujeme na Deltě následující předměty:
+V roce **2026/2027** vyučujeme na Deltě následující předměty:
 
-- [Cvičení z Programování 3 (JS)](predmety/2025/cpr3-js/)
+- [Cvičení z Programování 3 (JS)](predmety/2026/cpr3-js/)
 
 ## Nástroje
 
@@ -16,4 +16,4 @@ Pro výuku používáme následující nástroje:
 
 ---
 
-Veškeré dokumenty jsou distrubované pod licencí [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.txt).
+Veškeré dokumenty jsou distribuované pod licencí [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.txt).
