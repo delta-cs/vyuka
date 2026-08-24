@@ -8,11 +8,16 @@
 |-------|------------|---------------------|------|
 | 1.    | TBD        | TBD                 | 1    |
 | 2.    | TBD        | TBD                 | 4    |
-| 3.    | TBD        | TBD                 | 5    |
-| 4.    | TBD        | TBD                 | 10   |
-| 5.    | TBD        | TBD                 | 10   |
-| 6.    | TBD        | TBD                 | 10   |
-| 7.    | TBD        | TBD                 | 5    |
+| 3.    | TBD        | TBD                 | 4    |
+| 4.    | TBD        | TBD                 | 4    |
+| 5.    | TBD        | TBD                 | 4    |
+| 6.    | TBD        | TBD                 | 4    |
+| 7.    | TBD        | TBD                 | 4    |
+| 8.    | TBD        | TBD                 | 4    |
+| 9.    | TBD        | TBD                 | 4    |
+| 10.   | TBD        | TBD                 | 4    |
+| 11.   | TBD        | TBD                 | 4    |
+| 12.   | TBD        | TBD                 | 4    |
 
 ### Kvízy
 
