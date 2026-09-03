@@ -47,5 +47,11 @@
 
 **03.09.2026**
 - Představení předmětu a učitelů
+- Motivační přednášky
 
 ### Prezentace
+
+- [Úvod](./prezentace/00-uvod.pdf)
+- [Motivace: Peníze](./prezentace/00-motivace-1-penize.pdf)
+- [Motivace: AI a váš mozek](./prezentace/00-motivace-2-ai-a-mozek.pdf)
+- [Motivace: Ekonomika pozornosti](./prezentace/00-motivace-3-pozornost.pdf)
