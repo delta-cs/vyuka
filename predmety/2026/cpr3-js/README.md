@@ -6,8 +6,8 @@
 
 | Úkol  | Zadán      | Termín odevzdání    | Bodů |
 |-------|------------|---------------------|------|
-| 1.    | TBD        | TBD                 | 1    |
-| 2.    | TBD        | TBD                 | 4    |
+| 1.    | 10.09.2026 | 16.09.2026 23:59:59 | 1    |
+| 2.    | 10.09.2026 | 30.09.2026 23:59:59 | 4    |
 | 3.    | TBD        | TBD                 | 4    |
 | 4.    | TBD        | TBD                 | 4    |
 | 5.    | TBD        | TBD                 | 4    |
@@ -23,7 +23,7 @@
 
 | Kvíz  | Datum      | Bodů | Téma                                |
 |-------|------------|------|-------------------------------------|
-| 1.    | TBD        | 5    | TBD                                 |
+| 1.    | 01.10.26   | 5    | Git a kolaborativní vývoj           |
 | 2.    | TBD        | 10   | TBD                                 |
 | 3.    | TBD        | 10   | TBD                                 |
 | 4.    | TBD        | 10   | TBD                                 |
@@ -45,6 +45,10 @@
 
 ### Kalendář
 
+**10.09.2026**
+- Přednáška na Git
+- Zadání prvního a druhého úkolu
+
 **03.09.2026**
 - Představení předmětu a učitelů
 - Motivační přednášky
@@ -55,3 +59,4 @@
 - [Motivace: Peníze](./prezentace/00-motivace-1-penize.pdf)
 - [Motivace: AI a váš mozek](./prezentace/00-motivace-2-ai-a-mozek.pdf)
 - [Motivace: Ekonomika pozornosti](./prezentace/00-motivace-3-pozornost.pdf)
+- [Verzovací systémy](./prezentace/01-verzovaci-systemy.pdf)
