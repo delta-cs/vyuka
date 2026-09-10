@@ -46,7 +46,7 @@
 ### Kalendář
 
 **10.09.2026**
-- Přednáška na Git
+- Přednáška na verzovací systémy
 - Zadání prvního a druhého úkolu
 
 **03.09.2026**
