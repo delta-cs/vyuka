@@ -45,6 +45,13 @@
 
 ### Kalendář
 
+**24.09.2026**
+- Kolaborativní vývoj
+- Přednáška na JS před ES6 do slidu 88
+
+**17.09.2026**
+- Odpadlo
+
 **10.09.2026**
 - Přednáška na verzovací systémy
 - Zadání prvního a druhého úkolu
