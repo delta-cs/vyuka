@@ -60,3 +60,4 @@
 - [Motivace: AI a váš mozek](./prezentace/00-motivace-2-ai-a-mozek.pdf)
 - [Motivace: Ekonomika pozornosti](./prezentace/00-motivace-3-pozornost.pdf)
 - [Verzovací systémy](./prezentace/01-verzovaci-systemy.pdf)
+- [Kolaborativní vývoj](./prezentace/02-kolaborativni-vyvoj.pdf)
