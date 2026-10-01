@@ -8,7 +8,7 @@
 |-------|------------|---------------------|------|
 | 1.    | 10.09.2026 | 16.09.2026 23:59:59 | 1    |
 | 2.    | 10.09.2026 | 30.09.2026 23:59:59 | 4    |
-| 3.    | TBD        | TBD                 | 4    |
+| 3.    | 01.10.2026 | 07.10.2026 23:59:59 | 4    |
 | 4.    | TBD        | TBD                 | 4    |
 | 5.    | TBD        | TBD                 | 4    |
 | 6.    | TBD        | TBD                 | 4    |
@@ -45,6 +45,11 @@
 
 ### Kalendář
 
+**01.10.2026**
+- První kvíz
+- Dokončení přednášky na JS před ES6
+- Zadání třetího úkolu
+
 **24.09.2026**
 - Kolaborativní vývoj
 - Přednáška na JS před ES6 do slidu 88
@@ -68,3 +73,4 @@
 - [Motivace: Ekonomika pozornosti](./prezentace/00-motivace-3-pozornost.pdf)
 - [Verzovací systémy](./prezentace/01-verzovaci-systemy.pdf)
 - [Kolaborativní vývoj](./prezentace/02-kolaborativni-vyvoj.pdf)
+- [Základy JavaScriptu a JS před ES6](./prezentace/03-zaklady-javascriptu-a-js-pred-es6.pdf)
