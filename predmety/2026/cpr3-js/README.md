@@ -31,19 +31,29 @@
 ### Témata na prezentace
 
 - Generika v TypeScriptu
+  - B: Lukáš N.
 - Dekorátory a Mixiny v TypeScriptu
 - Binární vyhledávací strom a jeho vyvažování
+  - A: Ashley, B: Dan
 - Creational patterns - Factory, Builder, Singleton
+  - B: Matyáš
 - Structural patterns - Adapter, Decorator, Composite
 - Behavioral patterns - Observer, Iterator, Strategy
 - Základy Express.js
+  - A: Matouš, B: David
 - Objektově-relační mapování (ORM), migrace
+  - B: Jan
 - Architektura API - REST
+  - B: Vojtěch
 - Architektura API - GraphQL
+- - B: Lukáš J.
 - Continuous integration a continuous delivery (CI/CD)
 - Ukázka cloudových služeb
 
 ### Kalendář
+
+**08.10.2026**
+- Přednáška na ES6
 
 **01.10.2026**
 - První kvíz
