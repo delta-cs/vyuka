@@ -53,7 +53,7 @@
 ### Kalendář
 
 **08.10.2026**
-- Přednáška na ES6
+- Přednáška na ES6 do slidu 96
 
 **01.10.2026**
 - První kvíz
