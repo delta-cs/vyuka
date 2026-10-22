@@ -52,6 +52,15 @@
 
 ### Kalendář
 
+**29.10.2026**
+- Prázdniny
+
+**22.10.2026**
+- Spojeno
+
+**15.10.2026**
+- Kariérní den
+
 **08.10.2026**
 - Přednáška na ES6 do slidu 96
 
