@@ -52,6 +52,16 @@
 
 ### Kalendář
 
+**5.11.2026**
+- Příprava na Den otevřených dveří
+- Pár vybraných slidů ze zbytku prezentace z 8. 10.
+- Představení balíčkovacích systémů (npm, pnpm, yarn)
+- CommonJS vs ESM
+- Základy typescriptu
+  - První ts soubor
+  - tsc
+  - představení tsconfig.json
+
 **29.10.2026**
 - Prázdniny
 
