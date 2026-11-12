@@ -52,6 +52,12 @@
 
 ### Kalendář
 
+**12.11.2026**
+- Den otevřených dvěří
+- Základy express.js
+- První routy, metody, query params, params, body
+- Základ middleware
+
 **5.11.2026**
 - Příprava na Den otevřených dveří
 - Pár vybraných slidů ze zbytku prezentace z 8. 10.
